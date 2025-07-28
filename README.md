@@ -24,7 +24,7 @@ A FiveM script that provides a quick armor and health menu using ox_lib. Press F
 
 2. **Installation Steps**:
    - Place this resource in your server's resources folder
-   - Add `ensure armorscript` to your server.cfg
+   - Add `ensure Aiben_armorscript` to your server.cfg
    - Make sure ox_lib and ESX are installed and started before this resource
 
 ## Configuration
